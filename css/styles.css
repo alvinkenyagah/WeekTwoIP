@@ -1,0 +1,29 @@
+body {
+  background-image: url(https://lh3.googleusercontent.com/tcMmFKAVbV0q2yfQ0yBOQ2E59nviWOyAuvflFAseE1wt4aUPeQOTOzZ1o6clFDECnE1X9sBgJLMmgsjXRiVLXcc2ednk4aMmobiCDlJ0W86oS7TRqro02TxiV0A9xtMRKAKGpqpDlQ=w2400);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position-y: 820px;
+}
+h1 {
+  font-style: italic;
+  font-size: 1.4cm;
+  text-align: center;
+  color: #272234;
+}
+h2 {
+  color: white;
+}
+
+.akan {
+  font-size: 0.7cm;
+}
+.content {
+  color: beige;
+  background-color: #000;
+  color: #fff;
+  opacity: 0.7;
+  width: 45%;
+  padding: 10px;
+  margin: 100px auto;
+  border-radius: 3%;
+}
