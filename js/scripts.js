@@ -1,6 +1,6 @@
 //Drop down year selector
 var min = 1900,
-  max = 2100,
+  max = 2022,
   select = document.getElementById("year");
 
 for (var i = min; i <= max; i++) {
