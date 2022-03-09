@@ -13,7 +13,7 @@ Currently no bugs have been detected.
 ## Technologies Used
 Languages used include HTML, CSS and javaScript. Tools used to code is Microsofts Visual studio code.
 ## Support and contact details
-My contact is alvin.kenyagah@student.moringaschool.com suppose you come across any challenges or would like to give your feedback and suggestions. 
+My contact is alvin47k@gmail.com suppose you come across any challenges or would like to give your feedback and suggestions. 
 ### License
 MIT License
 
